@@ -42,13 +42,13 @@ Here are some of my recent projects:
 </h3>
 
 <p align="center">
-Imperio Boreal - E-commerce, fully functional and deployed 🌟
+<i>Imperio Boreal</i> - E-commerce, fully functional and deployed 🌟
 </p>
 <p align="center">
-Somos Más - Argentine ONG 💡
+<i>Somos Más</i> - Argentine ONG 💡
 </p>  
 <p align="center">
-Tempo Buonno - E-commerce specialized in coffe and pastry 🔥
+<i>Tempo Buonno</i> - E-commerce specialized in coffe and pastry 🔥
 </p>
 
 You can find more of my work on my website or GitHub.
