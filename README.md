@@ -6,9 +6,9 @@
   <i>Full Stack Web Developer who loves learning new technologies.</i>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/-[Your Field of Study]-brightgreen" alt="Field of Study">
-  <img src="https://img.shields.io/badge/-[Your Experience]-orange" alt="Experience">
-  <img src="https://img.shields.io/badge/-[Your Location]-blue" alt="Location">
+  <img src="https://img.shields.io/badge/-Web Development-brightgreen" alt="Field of Study">
+  <img src="https://img.shields.io/badge/-Fresh to the IT industry-orange" alt="Experience">
+  <img src="https://img.shields.io/badge/-Buenos Aires-blue" alt="Location">
 </p>
 💻 Skills
 
