@@ -15,8 +15,6 @@
 💻 Skills
 </h2>
 
-Here are a few of my top skills:
-
 <p align="center">
 NodeJS, Express, JavaScript, TypeScript 🔥
 </p>
@@ -50,8 +48,6 @@ Here are some of my recent projects:
 <p align="center">
 <i>Tempo Buonno</i> - E-commerce specialized in coffe and pastry 🔥
 </p>
-
-You can find more of my work on my website or GitHub.
 
 <h2 align="center">
 📧 Contact
