@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/123456/1234567890/profile-pic.jpg" alt="Profile Picture" width="250">
+  <img src="https://res.cloudinary.com/djalgd3fg/image/upload/c_fill,f_auto,q_auto/v1595845144/media/uploads/iStock-1061856176(1).jpg" alt="Profile Picture" width="250">
 </p>
 <h1 align="center">👋 Hi, I'm Dani!</h1>
 <p align="center">
