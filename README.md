@@ -40,6 +40,12 @@ Here are some of my recent projects:
 </h3>
 
 <p align="center">
+<i>WOW Legal Experience</i> - Full Stack Developer 🌟
+</p>
+<p align="center">
+<i>DEVOCAMP</i> - Back End Developer 🌟
+</p>
+<p align="center">
 <i>Imperio Boreal</i> - E-commerce, fully functional and deployed 🌟
 </p>
 <p align="center">
