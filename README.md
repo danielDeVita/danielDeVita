@@ -16,7 +16,7 @@
 </h2>
 
 <p align="center">
-NodeJS, AWS, Express, NestJS, JavaScript, TypeScript 🔥
+NodeJS, AWS, Serverless, Express, NestJS, JavaScript, TypeScript 🔥
 </p>
 <p align="center">
 SQL, MongoDB, Sequelize, Mongoose, MySQL2, PostgreSQL 🚀
